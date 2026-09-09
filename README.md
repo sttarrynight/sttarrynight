@@ -32,7 +32,7 @@
 
 ---
 
-## 📜 Certifications
+## 🪪 Certifications
 
 | Date | Certificate | Issued by |
 | --- | --- | --- |
